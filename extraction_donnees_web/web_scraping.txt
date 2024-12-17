@@ -1,0 +1,34 @@
+Chap   : WEB SCRAPING 
+
+I)
+
+=>DOM
+=>fonctionnement du web : protocole http
+le protocole http est un protocole de communication utiliser sur le web pour echanger
+des information entre le client(ex: navigateur web) et un serveur
+
+II)Utlisation du web scraping
+ 
+1) telecharger le page web : 
+depuis une requete http
+depuis un navigateur automatiser
+
+NB: cela peut etre complexe pour les recuper les données 
+(captchas , blocage adress IP , application monopages , murs de connection)
+
+2) Analyse du contenue 
+
+
+II) A quoi sa serve le web scraping 
+
+Analyse du marché 
+Automatisation des taches 
+centralisation de service 
+navigateur web 
+
+Definition de Beautiful
+
+Beautiful Soup est une bibliothèque Python utilisée pour extraire, 
+analyser et manipuler des données provenant de documents HTML ou XML. 
+Elle est particulièrement utile pour le web scraping, 
+où l'objectif est de récupérer et structurer des informations disponibles sur des pages web.
